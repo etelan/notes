@@ -101,9 +101,7 @@ Visit [greenandblackcross.org](https://greenandblackcross.org) for more info on 
 - Public Order Act 2023
 
 ### Arrest Process
-![Ar
-
-rest Process](646bbd80c7c2e55bea9113c2/image.png)
+![Arrest Process](646bbd80c7c2e55bea9113c2/image.png)
 
 ### Initial arrest
 - They don't need to give you a warning unless sec 12/14
